@@ -1,5 +1,5 @@
 {
-  "name": "@codetrix-studio/capacitor-google-auth",
+  "name": "@fmendoza/capacitor-google-auth",
   "version": "3.1.0",
   "description": "Google Auth plugin for capacitor.",
   "main": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "prepublishOnly": "npm run build",
     "prepare": "tsc"
   },
-  "author": "CodetrixStudio",
+  "author": "Fernando Mendoza",
   "license": "MIT",
   "devDependencies": {
     "@capacitor/android": "^3.2.2",
@@ -55,10 +55,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodetrixStudio/CapacitorGoogleAuth.git"
+    "url": "https://github.com/fmendoza/CapacitorGoogleAuth.git"
   },
   "bugs": {
-    "url": "https://github.com/CodetrixStudio/CapacitorGoogleAuth.git/issues"
+    "url": "https://github.com/fmendoza/CapacitorGoogleAuth.git/issues"
   },
   "prettier": "@ionic/prettier-config"
 }
