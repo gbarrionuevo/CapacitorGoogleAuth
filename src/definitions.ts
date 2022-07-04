@@ -57,6 +57,8 @@ export interface GoogleAuthPluginOptions {
    * @see @link https://developers.google.com/identity/protocols/oauth2/scopes
    */
   scopes?: string[];
+  
+  plugin_name?: string;
 
   /**
    * This is used for offline access and server side handling
